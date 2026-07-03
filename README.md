@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 💪 Motivational Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Success%20is%20not%20final%2C%20failure%20is%20not%20fatal%3A%20It%20is%20the%20courage%20to%20continue%20that%20counts.)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=An%20icy%20night%20in%20which%20I%20am%20standing%20in%20a%20shivering%20army%20under%20a%20downpour%20of%20rain%2C%20waiting%20to%20attack%20the%20enemy%20at%20dawn%2C%20is%20more%20beloved%20to%20me%20than%20a%20night%20in%20which%20I%20am%20wedded%20to%20a%20beautiful%20new%20bride%20or%20given%20the%20glad%20tidings%20of%20a%20newborn%20son.&author=Khalid%20Ibn%20Waleed)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Md-Ishtiyaq-Tarafder&limit=5&theme=dark&combine_all_yearly_contributions=true)
